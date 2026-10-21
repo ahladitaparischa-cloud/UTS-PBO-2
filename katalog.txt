@@ -1,0 +1,8 @@
+Kode    Jenis          Judul                      Tahun  Layak  Status    Lokasi
+------------------------------------------------------------------------------------------------
+BK-002  BukuCetak      Basis Data Relasional      2021   Tidak  Tersedia  Rak B-04, Lantai 2
+BK-001  BukuCetak      Java How to Program        2022   Ya     Dipinjam  Rak A-12, Lantai 1
+BD-001  BerkasDigital  Panduan Pemrograman Java   2024   Ya     Dipinjam  Tidak ada lokasi fisik
+BD-002  BerkasDigital  Jurnal Rekayasa Perangkat  2025   Ya     Tersedia  Tidak ada lokasi fisik
+MJ-002  Majalah        Info Teknologi Edisi 87    2026   Ya     Tersedia  Rak M-02, Lantai 1
+MJ-001  Majalah        Info Teknologi Edisi 88    2026   Tidak  Tersedia  Rak M-01, Lantai 1
